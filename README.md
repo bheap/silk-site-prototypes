@@ -5,6 +5,7 @@ Site prototypes are scaffolding or templates to help get you started quickly wit
 Build whatever templates help you out, complement the limited core templates bundled with Silk.
 
 ## how to build a site prototype
+### manually
 
 * have a look at the handful of samples under com/bheap/silk
 * find or create a package directory to place your site prototype in
@@ -25,6 +26,12 @@ Build whatever templates help you out, complement the limited core templates bun
 * place css, less, js etc in the 'resource' directory
 * place robots.txt and other metadata if required in 'meta'
 * test your site prototype by 'spinning' it with Silk
+
+### with silk
+
+* 'silk clone some-site'
+* modify the dna.xml file to suit
+* silk site-install
 
 
 ## how to contribute
