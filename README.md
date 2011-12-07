@@ -31,6 +31,7 @@ Build whatever templates help you out, complement the limited core templates bun
 
 * 'silk clone some-site'
 * modify the dna.xml file to suit
+* modify the rest of the content to suit
 * silk site-install
 
 
