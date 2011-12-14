@@ -1,0 +1,7 @@
+start=
+  element site-prototype {
+    element silk-version { text },
+    element package { text },
+    element id { text },
+    element description { text }
+  }
