@@ -1,3 +1,5 @@
+default namespace = "http://www.bheap.co.uk/resource/xml/ns/silk/site-prototype/0.1.0"
+
 start=
   element site-prototype {
     element silk-version { text },
