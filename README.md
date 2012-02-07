@@ -16,7 +16,7 @@ Build whatever templates help you out, complement the limited core templates bun
 * create a directory with the same name as the version of Silk you are using
   * just use the major.minor.patch ie 0.1.0
 * create all the required directories; .dna, component, meta, resource, site, template, view
-* add a dna.xml definition to .dna, see the examples under com/bheap/silk
+* add a dna.conf definition to .dna, see the examples under com/bheap/silk
   * check your package value is the same as the directory hierarchy you have placed your site in
   * silk-version is the version of Silk the template has been built and tested against
   * it is useful to add a quick description of the purpose of the site prototype, like what it integrates with
@@ -30,7 +30,7 @@ Build whatever templates help you out, complement the limited core templates bun
 ### with silk
 
 * 'silk clone some-site'
-* modify the dna.xml file to suit
+* modify the dna.conf file to suit
 * modify the rest of the content to suit
 * silk site-install
 
