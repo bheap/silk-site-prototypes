@@ -27,12 +27,12 @@ Build whatever templates help you out, complement the limited core templates bun
 * place robots.txt and other metadata if required in 'meta'
 * test your site prototype by 'spinning' it with Silk
 
-### with silk
+### or with silk
 
-* 'silk clone some-site'
-* modify the dna.conf file to suit
+* 'silk site-clone some-site'
+* modify the .dna/dna.conf file to suit
 * modify the rest of the content to suit
-* silk site-install
+* in your sites parent directory 'silk site-install'
 
 
 ## how to contribute
