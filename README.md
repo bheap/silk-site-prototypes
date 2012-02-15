@@ -32,7 +32,7 @@ Build whatever templates help you out, complement the limited core templates bun
 * 'silk site-clone some-site'
 * modify the .dna/dna.conf file to suit
 * modify the rest of the content to suit
-* in your sites parent directory 'silk site-install'
+* in your site's parent directory 'silk site-install'
 
 
 ## how to contribute
