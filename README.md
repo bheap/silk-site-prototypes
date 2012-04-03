@@ -7,7 +7,7 @@ Build whatever templates help you out, complement the limited core templates bun
 ## how to build a site prototype
 ### manually
 
-* have a look at the handful of samples under com/bheap/silk
+* have a look at the handful of samples under org/silkyweb
 * find or create a package directory to place your site prototype in
   * placing site prototypes in packages helps guarantee uniqueness
 * name your prototype something sensible
@@ -16,7 +16,7 @@ Build whatever templates help you out, complement the limited core templates bun
 * create a directory with the same name as the version of Silk you are using
   * just use the major.minor.patch ie 0.1.0
 * create all the required directories; .dna, component, meta, resource, site, template, view
-* add a dna.conf definition to .dna, see the examples under com/bheap/silk
+* add a dna.conf definition to .dna, see the examples under org/silkyweb
   * check your package value is the same as the directory hierarchy you have placed your site in
   * silk-version is the version of Silk the template has been built and tested against
   * it is useful to add a quick description of the purpose of the site prototype, like what it integrates with
