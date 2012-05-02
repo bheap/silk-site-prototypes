@@ -29,10 +29,10 @@ Build whatever templates help you out, complement the limited core templates bun
 
 ### or with silk
 
-* 'silk site-clone some-site'
+* 'silk clone-site some-site'
 * modify the .dna/dna.conf file to suit
 * modify the rest of the content to suit
-* in your site's parent directory 'silk site-install'
+* in your site's parent directory 'silk install-site'
 
 
 ## how to contribute
